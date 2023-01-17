@@ -18,6 +18,5 @@ for anime in data:
         f.write(f'Title : {title}\n')
         f.write(f'\n')
         f.write(f'Released Date : {release_date}\n')
-        f.write(f'\n')
     print(f"{filename} saved.")
     count += 1
