@@ -8,4 +8,4 @@ data = json.loads(response.text)
 for i, item in enumerate(data):
     with open(str(i+1) + ".html", "w", encoding="utf-8") as file:
         file.write(f"Title: {item['animeTitle']}\n\nEpisode: {item['episodeNum']}\n")
-    print(f"Anime {i+1} saved to {i+1}.txt")
+    print(f"Anime {i+1} saved to {i+1}.html")
