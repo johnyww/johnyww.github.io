@@ -1,7 +1,9 @@
 import requests
 import json
 
-url = 'https://gogoanime.consumet.org/recent-release'
+#url = 'https://gogoanime.consumet.org/recent-release'
+url = 'https://gogoanime2.p.rapidapi.com/recent-release'
+
 response = requests.get(url)
 data = json.loads(response.text)
 
