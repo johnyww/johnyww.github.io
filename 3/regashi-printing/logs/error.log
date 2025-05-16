@@ -1,0 +1,15 @@
+[16-May-2025 12:07:41 Europe/Berlin] PHP Fatal error:  Uncaught ValueError: PDO::exec(): Argument #1 ($statement) cannot be empty in C:\xampp\htdocs\3\regashi-printing\install.php:49
+Stack trace:
+#0 C:\xampp\htdocs\3\regashi-printing\install.php(49): PDO->exec('')
+#1 {main}
+  thrown in C:\xampp\htdocs\3\regashi-printing\install.php on line 49
+[16-May-2025 12:08:14 Europe/Berlin] PHP Fatal error:  Uncaught ValueError: PDO::exec(): Argument #1 ($statement) cannot be empty in C:\xampp\htdocs\3\regashi-printing\install.php:49
+Stack trace:
+#0 C:\xampp\htdocs\3\regashi-printing\install.php(49): PDO->exec('')
+#1 {main}
+  thrown in C:\xampp\htdocs\3\regashi-printing\install.php on line 49
+[16-May-2025 12:08:19 Europe/Berlin] PHP Fatal error:  Uncaught ValueError: PDO::exec(): Argument #1 ($statement) cannot be empty in C:\xampp\htdocs\3\regashi-printing\install.php:49
+Stack trace:
+#0 C:\xampp\htdocs\3\regashi-printing\install.php(49): PDO->exec('')
+#1 {main}
+  thrown in C:\xampp\htdocs\3\regashi-printing\install.php on line 49
