@@ -199,7 +199,7 @@ graph TD
     🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟
 ```
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=cosmic-codex&label=Cosmic%20Visitors&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/cosmic-codex/count.svg?align=center&style=flat&color=6A4C93&label=Cosmic%20Visitors)
 
 </div>
 
