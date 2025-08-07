@@ -64,7 +64,7 @@
 
 <table>
 <tr>
-<td width="100%">
+<td width="90%">
 
 ### 🌈 **Visual Spectrum**
 ```
@@ -76,7 +76,7 @@
 ```
 
 </td>
-<td width="100%">
+<td width="90%">
 
 ### 🧬 **DNA Structure**
 ```
@@ -134,11 +134,11 @@ graph TD
 <div align="center">
 
 ```
-                      🌟 Star Formation Rate: ████▒▒▒ Growing
-                      🍴 Fork Probability:    ██▒▒▒▒▒ Possible  
-                      👁️ Watchers in Orbit:   ███▒▒▒▒ Observing
-                      🐛 Bug Encounters:      ▒▒▒▒▒▒▒ Peaceful
-                      ☕ Coffee Consumption:   █████████ Critical
+                            🌟 Star Formation Rate: ████▒▒▒ Growing
+                            🍴 Fork Probability:    ██▒▒▒▒▒ Possible  
+                            👁️ Watchers in Orbit:   ███▒▒▒▒ Observing
+                            🐛 Bug Encounters:      ▒▒▒▒▒▒▒ Peaceful
+                            ☕ Coffee Consumption:   █████████ Critical
 ```
 
 </div>
@@ -176,8 +176,8 @@ graph TD
 
 ```
           ∞ ═══════════════════════════════════════════════════════════════════════ ∞
-                    Sometimes the most profound journeys
-                      begin with a single git init
+                Sometimes the most profound journeys
+                  begin with a single git init
           ∞ ═══════════════════════════════════════════════════════════════════════ ∞
 ```
 
@@ -191,8 +191,8 @@ graph TD
 
 ```
           🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟─── ⭐ ─── 🌟
-                      Thank you for visiting this 
-                        corner of the universe!
+                  Thank you for visiting this 
+                    corner of the universe!
           🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟─── ⭐ ─── 🌟
 ```
 
