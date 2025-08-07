@@ -41,19 +41,19 @@
 <br>
 
 ```ascii
-    ╭─────────────────────────────────────────────────────────────────────────────╮
-    │  🌠 This repository exists in a quantum superposition of potential and      │
-    │     possibility, waiting to collapse into something extraordinary           │
-    │                                                                             │
-    │  🎪 It's a playground for wild adventures and creative endeavors:           │
-    │     • Wild experiments that push the boundaries of imagination 🧪           │
-    │     • Crazy prototypes that defy conventional logic 🛸                     │
-    │     • Midnight inspirations born from coffee and starlight 🌙              │
-    │     • Digital alchemy that transforms ideas into reality ⚗️                │
-    │                                                                             │
-    │  ✨ Sometimes the best code comes from the most unexpected places in the    │
-    │     universe, when logic meets magic and dreams become algorithms...        │
-    ╰─────────────────────────────────────────────────────────────────────────────╯
+          ╭─────────────────────────────────────────────────────────────────────────────╮
+           │  🌠 This repository exists in a quantum superposition of potential and      │
+          │     possibility, waiting to collapse into something extraordinary           │
+           │                                                                             │
+          │  🎪 It's a playground for wild adventures and creative endeavors:           │
+           │     • Wild experiments that push the boundaries of imagination 🧪           │
+          │     • Crazy prototypes that defy conventional logic 🛸                     │
+           │     • Midnight inspirations born from coffee and starlight 🌙              │
+          │     • Digital alchemy that transforms ideas into reality ⚗️                │
+           │                                                                             │
+          │  ✨ Sometimes the best code comes from the most unexpected places in the    │
+           │     universe, when logic meets magic and dreams become algorithms...        │
+          ╰─────────────────────────────────────────────────────────────────────────────╯
 ```
 
 </details>
@@ -64,7 +64,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 🌈 **Visual Spectrum**
 ```
@@ -76,7 +76,7 @@
 ```
 
 </td>
-<td width="70%">
+<td width="100%">
 
 ### 🧬 **DNA Structure**
 ```
@@ -134,11 +134,11 @@ graph TD
 <div align="center">
 
 ```
-                  🌟 Star Formation Rate: ████▒▒▒ Growing
-                  🍴 Fork Probability:    ██▒▒▒▒▒ Possible  
-                  👁️ Watchers in Orbit:   ███▒▒▒▒ Observing
-                  🐛 Bug Encounters:      ▒▒▒▒▒▒▒ Peaceful
-                  ☕ Coffee Consumption:   █████████ Critical
+                      🌟 Star Formation Rate: ████▒▒▒ Growing
+                      🍴 Fork Probability:    ██▒▒▒▒▒ Possible  
+                      👁️ Watchers in Orbit:   ███▒▒▒▒ Observing
+                      🐛 Bug Encounters:      ▒▒▒▒▒▒▒ Peaceful
+                      ☕ Coffee Consumption:   █████████ Critical
 ```
 
 </div>
@@ -176,8 +176,8 @@ graph TD
 
 ```
           ∞ ═══════════════════════════════════════════════════════════════════════ ∞
-                      Sometimes the most profound journeys
-                        begin with a single git init
+                    Sometimes the most profound journeys
+                      begin with a single git init
           ∞ ═══════════════════════════════════════════════════════════════════════ ∞
 ```
 
@@ -191,8 +191,8 @@ graph TD
 
 ```
           🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟─── ⭐ ─── 🌟
-                        Thank you for visiting this 
-                          corner of the universe!
+                      Thank you for visiting this 
+                        corner of the universe!
           🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟─── ⭐ ─── 🌟
 ```
 
