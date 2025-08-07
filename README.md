@@ -63,6 +63,10 @@
 
 ## 🎨 **CREATIVE DIMENSIONS**
 
+<table width="100%">
+<tr>
+<td width="50%">
+
 ### 🌈 **Visual Spectrum**
 ```
 ██████████ Languages
@@ -72,6 +76,9 @@
 ██████████ Music
 ```
 
+</td>
+<td width="50%">
+
 ### 🧬 **DNA Structure**
 ```
 A─T  🎵 Melody
@@ -80,6 +87,10 @@ T─A  💭 Thought
 C─G  ⚡ Energy
 A─T  🌟 Magic
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
