@@ -3,13 +3,12 @@
 <div align="center">
 
 ```
-    ✦       •      ·     ✧        ·   •      ✦
-      ·    ∘   ·         ✧     ·     ✦    ·
-   •    ✧      ·    ∘      ·         •
-      ·     ·    ✦    ·       ∘   ·
-    ∘    ·         •    ·    ✧    ·   ∘
-      ·    ✦   ·         ·     •    ·
-         ·     ·    ∘    ·    ·    ✧
+    ✦       •      ·     ✧        ·   •      ✦       ∘      ·     ✧        ·   •      ✦
+      ·    ∘   ·         ✧     ·     ✦    ·      ·    ∘   ·         ✧     ·     ✦    ·
+   •    ✧      ·    ∘      ·         •        •    ✧      ·    ∘      ·         •
+      ·     ·    ✦    ·       ∘   ·            ·     ·    ✦    ·       ∘   ·
+    ∘    ·         •    ·    ✧    ·   ∘      ∘    ·         •    ·    ✧    ·   ∘
+      ·    ✦   ·         ·     •    ·          ·    ✦   ·         ·     • 
 ```
 
 </div>
@@ -42,21 +41,19 @@
 <br>
 
 ```ascii
-    ╭─────────────────────────────────────╮
-    │  🌠 This repository exists in a     │
-    │     quantum superposition of        │
-    │     potential and possibility       │
-    │                                     │
-    │  🎪 It's a playground for:          │
-    │     • Wild experiments 🧪           │
-    │     • Crazy prototypes 🛸           │
-    │     • Midnight inspirations 🌙      │
-    │     • Digital alchemy ⚗️            │
-    │                                     │
-    │  ✨ Sometimes the best code comes   │
-    │     from the most unexpected        │
-    │     places in the universe...       │
-    ╰─────────────────────────────────────╯
+    ╭─────────────────────────────────────────────────────────────────────────────╮
+    │  🌠 This repository exists in a quantum superposition of potential and      │
+    │     possibility, waiting to collapse into something extraordinary           │
+    │                                                                             │
+    │  🎪 It's a playground for wild adventures and creative endeavors:           │
+    │     • Wild experiments that push the boundaries of imagination 🧪           │
+    │     • Crazy prototypes that defy conventional logic 🛸                     │
+    │     • Midnight inspirations born from coffee and starlight 🌙              │
+    │     • Digital alchemy that transforms ideas into reality ⚗️                │
+    │                                                                             │
+    │  ✨ Sometimes the best code comes from the most unexpected places in the    │
+    │     universe, when logic meets magic and dreams become algorithms...        │
+    ╰─────────────────────────────────────────────────────────────────────────────╯
 ```
 
 </details>
@@ -153,18 +150,18 @@ graph TD
 <div align="center">
 
 ```
-    ╔══════════════════════════════════╗
-    ║  📡 TRANSMISSION FREQUENCIES     ║
-    ║                                  ║
-    ║  🌐 GitHub: Where you found me   ║
-    ║  💬 Issues: Open communication   ║
-    ║  🔀 PRs: Collaboration welcome   ║
-    ║  ⭐ Stars: Energy appreciated     ║
-    ║                                  ║
-    ║  "In space, no one can hear you  ║
-    ║   code... but they can see your  ║
-    ║   commits." 🚀                   ║
-    ╚══════════════════════════════════╝
+    ╔═════════════════════════════════════════════════════════════════════════╗
+     ║                       📡 TRANSMISSION FREQUENCIES                      ║
+    ║                                                                         ║
+     ║                       🌐 GitHub: Where you found me                     ║
+    ║                        💬 Issues: Open communication                    ║
+     ║                       🔀 PRs: Collaboration welcome                     ║
+    ║                        ⭐ Stars: Energy appreciated                    ║
+     ║                                                                         ║
+    ║                       "In space, no one can hear you                    ║
+     ║                       code... but they can see your                     ║
+    ║                       commits." 🚀                                     ║
+     ╚════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -178,10 +175,10 @@ graph TD
 <div align="center">
 
 ```
-    ∞ ═══════════════════════════════════ ∞
-      Sometimes the most profound journeys
-         begin with a single git init
-    ∞ ═══════════════════════════════════ ∞
+    ∞ ═══════════════════════════════════════════════════════════════════════ ∞
+                          Sometimes the most profound journeys
+                            begin with a single git init
+    ∞ ═══════════════════════════════════════════════════════════════════════ ∞
 ```
 
 </div>
@@ -193,10 +190,10 @@ graph TD
 **✨ MADE WITH COSMIC LOVE & INFINITE IMAGINATION ✨**
 
 ```
-    🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟
-      Thank you for visiting this 
-         corner of the universe!
-    🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟
+    🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟─── ⭐ ─── 🌟
+                            Thank you for visiting this 
+                              corner of the universe!
+    🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟─── ⭐ ─── 🌟
 ```
 
 ![Visitor Count](https://profile-counter.glitch.me/cosmic-codex/count.svg?align=center&style=flat&color=6A4C93&label=Cosmic%20Visitors)
