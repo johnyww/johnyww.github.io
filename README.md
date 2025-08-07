@@ -201,7 +201,7 @@ graph TD
           🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟─── ⭐ ─── 🌟 ─── ⭐
 ```
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-repo&count_bg=%236A4C93&title_bg=%23282828&icon=github.svg&icon_color=%23E7E7E7&title=Cosmic+Visitors&edge_flat=false)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 </div>
 
