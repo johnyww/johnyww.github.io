@@ -14,7 +14,8 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=6A4C93&background=0F0F23&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+the+Void;Where+Ideas+Take+Flight;∞+Infinite+Possibilities+∞;Built+with+%E2%9C%A8+Imagination+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=6A4C93&background=0F0F23&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+the+Void;Where+Ideas+Take+Flight;∞+Infinite+Possibilities+∞;Built+with+✨+Imagination+✨"
+  alt="Typing SVG" />
 </p>
 
 ---
@@ -64,7 +65,7 @@
 
 <table>
 <tr>
-<td width="290%">
+<td width="50%">
 
 ### 🌈 **Visual Spectrum**
 ```
@@ -76,7 +77,7 @@
 ```
 
 </td>
-<td width="290%">
+<td width="50%">
 
 ### 🧬 **DNA Structure**
 ```
@@ -176,8 +177,10 @@ graph TD
 
 ```
           ∞ ══════════════════════════════════════════════════════════════════════════════ ∞
+
             Sometimes the most profound journeys
               begin with a single git init
+
           ∞ ══════════════════════════════════════════════════════════════════════════════ ∞
 ```
 
@@ -191,12 +194,14 @@ graph TD
 
 ```
           🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟─── ⭐ ─── 🌟 ─── ⭐
+
               Thank you for visiting this 
                 corner of the universe!
+
           🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟 ─── ⭐ ─── 🌟─── ⭐ ─── 🌟 ─── ⭐
 ```
 
-![Visitor Count](https://profile-counter.glitch.me/cosmic-codex/count.svg?align=center&style=flat&color=6A4C93&label=Cosmic%20Visitors)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-repo&count_bg=%236A4C93&title_bg=%23282828&icon=github.svg&icon_color=%23E7E7E7&title=Cosmic+Visitors&edge_flat=false)
 
 </div>
 
