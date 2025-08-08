@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full Screen Image</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html, body {
+            height: 100%;
+            overflow: hidden;
+        }
+
+        .fullscreen-image {
+            width: 100vw;
+            height: 100vh;
+            object-fit: cover;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <img src="https://raw.githubusercontent.com/johnyww/gf-stuff/refs/heads/main/photo-1.jpg?token=GHSAT0AAAAAADIZ3WT5WP3Z477XT5X26KDM2EWGSNA" 
+         alt="Full screen image" 
+         class="fullscreen-image">
+</body>
+</html>
