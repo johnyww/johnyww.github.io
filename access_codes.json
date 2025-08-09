@@ -1,0 +1,28 @@
+{
+    "valid_codes": [
+        {
+            "code": "ADMIN123",
+            "user": "Administrator",
+            "created": "2025-01-01",
+            "active": true
+        },
+        {
+            "code": "USER456",
+            "user": "Standard User",
+            "created": "2025-01-01",
+            "active": true
+        },
+        {
+            "code": "DEMO789",
+            "user": "Demo User",
+            "created": "2025-01-01",
+            "active": false
+        },
+        {
+            "code": "TEST000",
+            "user": "Test User",
+            "created": "2025-01-01",
+            "active": true
+        }
+    ]
+}
